@@ -12,7 +12,7 @@ function App() {
           SonicTrend Shop
         </h2>
         
-        <Button>Shop Now</Button>
+        <Button>Login</Button>
       </header>
     </div>
   );

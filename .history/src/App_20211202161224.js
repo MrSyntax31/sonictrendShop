@@ -8,12 +8,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h2 className="mt-3">
-          SonicTrend Shop
-        </h2>
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
         
-        <Button>Shop Now</Button>
       </header>
+        <Button>Login</Button>
     </div>
   );
 }

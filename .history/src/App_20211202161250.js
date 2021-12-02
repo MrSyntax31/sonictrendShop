@@ -8,11 +8,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h2 className="mt-3">
+        <p>
           SonicTrend Shop
-        </h2>
+        </p>
         
-        <Button>Shop Now</Button>
+        <Button>Login</Button>
       </header>
     </div>
   );
